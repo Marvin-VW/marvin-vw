@@ -2,6 +2,8 @@
 
 # 💫About Me :
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marvin-lorenz/) 
+
 ## Current Projects
 Developing a 3D Engine in Python, exploring real-time rendering and matrix transformations.
 Learning C++ to deepen expertise in low-level programming and graphics, focusing on advanced 3D modeling techniques.
@@ -13,9 +15,6 @@ HTML & CSS: Experience in front-end web development, bringing designs to life wi
 ## AI & Robotics
 AI Enthusiast: Passionate about AI evolution, I've built an AI chatbot webpage leveraging Ollama and Langchain.
 Robotics: Designed and programmed an RC car to autonomously follow a track using computer vision and sensor fusion.
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marvin-lorenz/) 
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvin-VW&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
