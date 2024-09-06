@@ -2,7 +2,7 @@
 
 # 💫About Me :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marvin-lorenz/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-lorenz/) 
 
 ## Current Projects
 Developing a 3D Engine in Python, exploring real-time rendering and matrix transformations.
