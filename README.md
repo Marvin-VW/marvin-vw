@@ -16,5 +16,4 @@ HTML & CSS: Experience in front-end web development, bringing designs to life wi
 AI Enthusiast: Passionate about AI evolution, I've built an AI chatbot webpage leveraging Ollama and Langchain.
 Robotics: Designed and programmed an RC car to autonomously follow a track using computer vision and sensor fusion.
 
-# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvin-VW&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
