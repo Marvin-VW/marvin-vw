@@ -5,15 +5,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-lorenz/) 
 
 ## Current Projects
-Developing a 3D Engine in Python, exploring real-time rendering and matrix and camera transformations.
+Developing a 3D Engine in Python, exploring real-time rendering and matrix and camera transformations.<br>
 Learning C++ to deepen expertise in low-level programming and graphics.
 
 ## Proficiencies
-Java & Python: Skilled in object-oriented programming and game development, I created a fully functional only Java-based game.
+Java & Python: Skilled in object-oriented programming and game development, I created a fully functional only Java-based game.<br>
 HTML & CSS: Experience in front-end web development, by building a chatting website.
 
 ## AI & Robotics
-AI Enthusiast: Passionate about AI evolution, I've built an AI chatbot webpage leveraging Ollama and Langchain.
+AI Enthusiast: Passionate about AI evolution, I've built an AI chatbot webpage leveraging Ollama and Langchain.<br>
 Robotics: Designed and programmed an RC car to autonomously follow a track using computer vision.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvin-VW&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
